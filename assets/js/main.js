@@ -20,11 +20,11 @@ hoverChangeDescription(
   "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
 );
 hoverChangeDescription(
-  ".python",
+  ".sass",
   "Python é uma linguagem de programação de alto nível ou High Level Language —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar softwares"
 );
 hoverChangeDescription(
-  ".r",
+  ".react",
   "R é uma linguagem versátil. Ela surgiu a partir da necessidade de um programa que auxiliasse na manipulação, análise e visualização de dados."
 );
 hoverChangeDescription(
