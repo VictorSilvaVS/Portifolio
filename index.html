@@ -149,7 +149,7 @@
               <p class="delayMediumReveal">
                 Meu nome é VictorSilva, ou “VICode” (é como me chamam agora).
                 Sou freelancer como Front-end developer e programador geral.
-                Desenvolvo interfaces modernas e aplicalções de alta qualidade, concentrado
+                Desenvolvo interfaces modernas e aplicações de alta qualidade, concentrado
                 em performance, animações e responsividade.
               </p>
             </article>
@@ -207,7 +207,7 @@
               </div>
               <h3>Developer</h3>
               <p>
-                Desenvolvo aplicalções responsivas, objetivas e
+                Crio aplicações responsivas, objetivas e
                 principalmente intuitiva para o usuário.
               </p>
             </article>
