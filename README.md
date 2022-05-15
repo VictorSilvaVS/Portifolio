@@ -1,3 +1,3 @@
 # Portifolio 
 
-img(https://github.com/VictorSilvaVS/portifolio/blob/main/assets/image/vito-logo1.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/VictorSilvaVS/portifolio/main/assets/image/vito-logo1.png)
