@@ -20,12 +20,12 @@ hoverChangeDescription(
   "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
 );
 hoverChangeDescription(
-  ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  ".python",
+  "Python é uma linguagem de programação de alto nível ou High Level Language —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar softwares"
 );
 hoverChangeDescription(
-  ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+  ".r",
+  "R é uma linguagem versátil. Ela surgiu a partir da necessidade de um programa que auxiliasse na manipulação, análise e visualização de dados."
 );
 hoverChangeDescription(
   ".next",
