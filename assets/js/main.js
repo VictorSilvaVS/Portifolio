@@ -21,9 +21,9 @@ hoverChangeDescription(
 );
 hoverChangeDescription(
   ".py",
-  "Python é uma linguagem de programação de alto nível ou High Level Language —, dinâmica, interpretada, modular, multiplataforma e orientada a objetos — uma forma específica de organizar softwares"
+  "Python é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos"
 );
 hoverChangeDescription(
   ".r",
-  "R é uma linguagem versátil. Ela surgiu a partir da necessidade de um programa que auxiliasse na manipulação, análise e visualização de dados."
+  "Ela surgiu a partir da necessidade de um programa que auxiliasse na manipulação, análise e visualização de dados."
 );
