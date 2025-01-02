@@ -20,10 +20,22 @@ hoverChangeDescription(
   "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
 );
 hoverChangeDescription(
-  ".sass",
+  ".python",
   "Python é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos"
 );
 hoverChangeDescription(
-  ".react",
-  "Ela surgiu a partir da necessidade de um programa que auxiliasse na manipulação, análise e visualização de dados."
+  ".java",
+  "A linguagem de programação Java foi criada para resolver problemas que surgiriam com a crescente conectividade entre dispositivos e com a necessidade de linguagens mais portáteis."
+);
+hoverChangeDescription(
+  ".R",
+  "R é uma linguagem de programação multi-paradigma orientada a objetos, programação funcional, dinâmica, fracamente tipada, voltada à manipulação, análise e visualização de dados."
+);
+hoverChangeDescription(
+  ".c",
+  "A linguagem de programação C++ foi criada para ser uma extensão da linguagem C, com o objetivo de adicionar recursos de programação orientada a objetos (POO)."
+);
+hoverChangeDescription(
+  ".sql",
+  "O MySQL foi criado para atender à crescente necessidade de um sistema de gerenciamento de banco de dados relacional (SGBD) que fosse eficiente, robusto, fácil de usar e gratuito."
 );
